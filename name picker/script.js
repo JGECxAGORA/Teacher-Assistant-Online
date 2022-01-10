@@ -33,8 +33,6 @@ $("#close").click(function () {
     $("#world").removeClass("open");
     $("#winner").removeClass("open");
     $("#close").removeClass("open");
-
-    //audio.remove();
 });
 
 // Confetti i.e. designing background 
